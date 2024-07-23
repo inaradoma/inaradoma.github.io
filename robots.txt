@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://inaradoma.github.io/sitemap
+Sitemap: https://inaradoma.github.io/app/sitemap
+Sitemap: https://inaradoma.github.io/assets/sitemap
+Sitemap: https://inaradoma.github.io/css/sitemap
+Sitemap: https://inaradoma.github.io/includes/sitemap
+Sitemap: https://inaradoma.github.io/item/sitemap
+Sitemap: https://inaradoma.github.io/src/sitemap
